@@ -1,3 +1,8 @@
 #! /bin/sh
 
-ls -al
+# list all file with long list
+#ls -al
+
+#display Hello
+
+echo "hello there"
